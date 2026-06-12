@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.env
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.DS_Store
+backend/uploads/
+backend/data/
+backend/images_temp/
+*.txt
+!backend/requirements.txt
